@@ -1,0 +1,1 @@
+export const pathFile: string = `${__dirname}/hpData.json` 
